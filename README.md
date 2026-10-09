@@ -4,6 +4,8 @@
 
 ---
 
+Bei Fragen / for questions contact: makespace@tjfbg.de
+
 ## English
 
 ### What is this?
