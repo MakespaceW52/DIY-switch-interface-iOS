@@ -1,4 +1,4 @@
-# DIY BLE Switch Interfacee Module
+# DIY BLE Switch Interface Module
 
 > **A DIY Bluetooth accessibility switch interface for people with motor impairments — inspired by commercial devices like the AbleNet Blue2.**
 
@@ -80,7 +80,7 @@ Open source — built with ❤️ at Meko Mitte for and with the community.
 
 Das DIY BLE Switch Interface Module ist ein Open-Source Bluetooth-HID-Adapter, der bis zu **4 externe Schalter** (über 3,5mm Mono-Klinkenbuchsen) per Bluetooth Low Energy mit iOS verbindet. Ein Modus-Button schaltet zwischen konfigurierbaren Aktionsprofilen um. Zwei LEDs zeigen den aktiven Modus und den Bluetooth-Verbindungsstatus an.
 
-Das Projekt entstand im **Meko Mitte**, in deren öffentlichen Makerspace für Kinder und Jugendliche in Berlin, als erschwingliche und anpassbare Alternative zu kommerziellen Hilfsmittelgeräten.
+Das Projekt entstand im **Meko Mitte**, in deren öffentlichem Makespace für Kinder und Jugendliche in Berlin, als erschwingliche und anpassbare Alternative zu kommerziellen Hilfsmittelgeräten.
 
 ### Anwendungsszenarien
 
