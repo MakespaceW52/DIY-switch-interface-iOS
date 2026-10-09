@@ -4,7 +4,7 @@
 ---
 
 ![Ein Schalter Interface mit Klinkenbuchsen in einem selbstgedruckten Gehäuse.](DIY_Switch.jpeg)\
-Photo: © TINCON
+Photo: © Meko Mitte
 
 Bei Fragen / for questions contact: makespace@tjfbg.de
 
