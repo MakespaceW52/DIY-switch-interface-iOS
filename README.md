@@ -1,5 +1,8 @@
 # DIY BLE Switch Interface Module
 
+![Eine erwachsene Person übergibt eine leuchtende Oktopus-Platine an ein Kind.](https://www.tjfbg.de/fileadmin/tjfbg/user_upload/aktuelles/2025/bk_/TINCON_News.png)\
+Photo: © TINCON
+
 > **A DIY Bluetooth accessibility switch interface for people with motor impairments — inspired by commercial devices like the AbleNet Blue2.**
 
 ---
