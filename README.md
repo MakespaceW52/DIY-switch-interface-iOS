@@ -3,7 +3,7 @@
 > **A DIY Bluetooth accessibility switch interface for people with motor impairments — inspired by commercial devices like the AbleNet Blue2.**
 ---
 
-![Eine erwachsene Person übergibt eine leuchtende Oktopus-Platine an ein Kind.](https://www.tjfbg.de/fileadmin/tjfbg/user_upload/aktuelles/2025/bk_/TINCON_News.png)\
+![Ein Schalter Interface mit Klinkenbuchsen in einem selbstgedruckten Gehäuse.](DIY_Switch.jpeg)\
 Photo: © TINCON
 
 Bei Fragen / for questions contact: makespace@tjfbg.de
